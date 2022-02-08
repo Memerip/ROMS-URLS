@@ -1,2 +1,4 @@
 # ROMS-URLS
-This is for my wesbite
+These ROM URLS are for mywebsite but feel free to use them
+
+Legend of zelda a Link to the Past
